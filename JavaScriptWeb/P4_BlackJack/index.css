@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-image: url("casinotable.webp");
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-size: cover;
+    color: white;
+    font-weight: bold;
+}
+h1{
+    color: goldenrod;
+}
+#message-el{
+    font-style: italic;
+}
+button{
+    text-align: center;
+    display: block;
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    padding: 5px 10px;
+    font-weight: bold;
+    border: none;
+    border-radius: 3px;
+    margin:  10px auto;
+}
